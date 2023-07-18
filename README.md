@@ -7,12 +7,11 @@
 <br/>
 📫 Reach me at:
 <a href="https://www.linkedin.com/in/oscar-portll/">
-<img href="LinkedIn_icon (1).svg">
-
-![alt text](LinkedIn_icon.svg 'Linkedin Icon')
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" style="width: 50px; height: 20px;">
 </a>
+
 <a href="mailto:oscarportillo721@gmail.com">
-<img href="Gmail_icon_(2020).svg" style="width: 50px; height: 50px;">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" style="width: 50px; height: 20px;">
 </a>
 
 <!--
