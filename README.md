@@ -8,6 +8,8 @@
 📫 Reach me at:
 <a href="https://www.linkedin.com/in/oscar-portll/">
 <img href="LinkedIn_icon (1).svg">
+
+![alt text](LinkedIn_icon.svg 'Linkedin Icon')
 </a>
 <a href="mailto:oscarportillo721@gmail.com">
 <img href="Gmail_icon_(2020).svg" style="width: 50px; height: 50px;">
