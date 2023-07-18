@@ -1,6 +1,5 @@
-### Hi there 👋
-
-<div style="align: justify;">
+<h1>Hi there! 👋</h1>
+<div>
   I'm Oscar, a passionate learner exploring the exciting world of front-end web development. With a focus on JavaScript, CSS, and HTML, I'm honing my skills to craft captivating user experiences. Additionally, I possess solid knowledge in Git, enabling efficient collaboration and version control.
 </div>
 
